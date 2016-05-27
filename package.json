@@ -1,7 +1,7 @@
 {
-  "name": "hubot-mongodb-brain",
+  "name": "hubot-mongodb-pinky",
   "version": "0.2.0",
-  "description": "MongoDB brain for Hubot. Support MongoLab and MongoHQ on heroku",
+  "description": "Modified version of MongoDB brain for Hubot. Support MongoLab and MongoHQ on heroku",
   "main": "scripts/hubot-mongodb-brain.coffee",
   "scripts": {
     "test": "grunt test",
@@ -12,7 +12,10 @@
     "brain",
     "mongodb"
   ],
-  "author": "Sho Hashimoto <hashimoto@shokai.org>",
+  "author": "Krzysztof Skoracki <krzysztof@skoracki.net>",
+  "contributors": [
+    "Sho Hashimoto <hashimoto@shokai.org>"
+  ],
   "license": "MIT",
   "dependencies": {
     "lodash": "*",
@@ -29,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shokai/hubot-mongodb-brain.git"
+    "url": "https://github.com/esenti/hubot-mongodb-brain.git"
   },
   "bugs": {
-    "url": "https://github.com/shokai/hubot-mongodb-brain/issues"
+    "url": "https://github.com/esenti/hubot-mongodb-brain/issues"
   },
-  "homepage": "https://github.com/shokai/hubot-mongodb-brain"
+  "homepage": "https://github.com/esenti/hubot-mongodb-brain"
 }
