@@ -1,6 +1,6 @@
 {
   "name": "hubot-mongodb-pinky",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Modified version of MongoDB brain for Hubot. Support MongoLab and MongoHQ on heroku",
   "main": "scripts/hubot-mongodb-brain.coffee",
   "scripts": {
